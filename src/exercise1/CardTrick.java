@@ -1,5 +1,9 @@
 package exercise1;
 
+// Author: Tanay Patel
+// Date: 26/05/2023
+
+
 /**
  * A class that fills a hand of 7 cards with random Card Objects and then asks the user to pick a card.
  * It then searches the array of cards for the match to the user's card. 
