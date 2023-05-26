@@ -1,18 +1,12 @@
-package exercise1;
+//package exercise1;
 
 // Author: Tanay Patel
 // Date: 26/05/2023
 
 
-/**
- * A class that fills a hand of 7 cards with random Card Objects and then asks the user to pick a card.
- * It then searches the array of cards for the match to the user's card. 
- * To be used as starting code in Exercise
- *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
- */
-public class CardTrick {
+// As per the question 4, comment out the entire code.
+
+/*public class CardTrick {
     
     public static void main(String[] args) {
         
@@ -44,7 +38,7 @@ public class CardTrick {
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
      */
-    private static void printInfo() {
+    /*private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
@@ -69,3 +63,4 @@ public class CardTrick {
     }
 
 }
+*/
